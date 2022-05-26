@@ -9,6 +9,7 @@ license = "APACHE LICENSE, VERSION 2.0"
 python = "^3.9"
 transformers = "^4.19.2"
 datasets = "^2.2.2"
+pandas = "^1.4.2"
 
 [tool.poetry.dev-dependencies]
 ipykernel = "^6.13.0"
